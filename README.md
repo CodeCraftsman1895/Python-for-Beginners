@@ -36,7 +36,9 @@ This repository currently includes notebooks covering topics such as:
   * Beginner-level Python exercises
   * Problem-solving practice
   * Hands-on implementation to reinforce concepts
-
+* **Decorators**
+* Definition of a decorator
+* three examples to understand decorator
 ---
 
 ## 🎯 Purpose of This Repository
