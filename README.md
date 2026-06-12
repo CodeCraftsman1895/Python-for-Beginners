@@ -37,8 +37,11 @@ This repository currently includes notebooks covering topics such as:
   * Problem-solving practice
   * Hands-on implementation to reinforce concepts
 * **Decorators**
-* Definition of a decorator
-* three examples to understand decorator
+  * Definition of a decorator
+  * three examples to understand decorator
+* **Object Orienented Programming**
+  * Covers fundamental concepts and 4 pillars of OOP
+
 ---
 
 ## 🎯 Purpose of This Repository
